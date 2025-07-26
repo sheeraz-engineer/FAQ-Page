@@ -1,6 +1,10 @@
-# 💻 Responsive FAQ Accordion Page
+# 💻 Responsive FAQ Page
 
 This project is a clean and responsive **FAQ (Frequently Asked Questions)** page built using **HTML**, **CSS**, and **JavaScript** with no frameworks. It features an interactive accordion layout for viewing answers to common questions.
+
+## 🌐 Live Demo
+[View Live Site](https://sheeraz-engineer.github.io/FAQ-Page/)
+
 
 ## 🔍 Features
 
@@ -12,14 +16,11 @@ This project is a clean and responsive **FAQ (Frequently Asked Questions)** page
 - Clean and responsive layout
 - Subtle hover effects and active state highlighting
 
-## 🖥️ Preview
-
-![FAQ Preview](preview.png) *(You can add your own preview screenshot)*
 
 ## 📁 Project Structure
 
 ```
-📦 FAQ_Accordion_Page
+📦 FAQ-Page
  ┣ 📄 index.html
  ┣ 📄 style.css
  ┗ 📄 script.js
@@ -36,16 +37,16 @@ To run this project locally:
 
 This page works beautifully on desktops, tablets, and mobile devices.
 
-## ✨ Customization
-
-- Add more FAQ items inside `index.html`
-- Modify colors or spacing in `style.css`
-- Add advanced features like dark mode or search functionality
 
 ## 📜 License
 
 This project is open-source and free to use for internship, learning, and personal portfolio purposes.
 
+## 👨‍💻 Author
+**Sheeraz Ahmed**  
+Frontend Web Developer  
+📫 [LinkedIn](https://www.linkedin.com/in/sheeraz-ahmed-28317436b/) | [GitHub](https://github.com/sheeraz-engineer)
+
 ---
 
-Made with ❤️ for a Web Developer Internship Task
+Made with ❤️ 
